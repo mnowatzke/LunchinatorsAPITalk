@@ -1,2 +1,2 @@
 # 2019Spring_NowatzkeAPI
-R script for working with the NASS API.
+R script/presentation for Lunchinators group @ ISU on working with the NASS API.
